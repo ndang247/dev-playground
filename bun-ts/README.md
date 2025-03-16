@@ -1,4 +1,4 @@
-# dev-playground
+# Bun with TypeScript
 
 To install dependencies:
 
